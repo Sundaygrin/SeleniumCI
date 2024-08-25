@@ -8,6 +8,7 @@ import unittest
 class TestSuccessfulLogin(unittest.TestCase):
 
     def setUp(self):
+        assert True
         self.driver = webdriver.Chrome()
         self.driver.get("https://enum.africa/login")
 
