@@ -30,7 +30,7 @@ jobs:
 
     - name: Run tests
       run: |
-        pytest test_Login.py
+        pip install pytest
 
 
 
