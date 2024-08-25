@@ -26,6 +26,6 @@ jobs:
 #      run: pip install -r Selenium/requirements.txt
 
     - name: Run tests
-      run: |
-        pytest test_Login.py
+      run:
+        test_Login.py
         

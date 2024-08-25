@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="1990ff6e-e890-4ede-97a4-b66bd77285b9" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.github/workflows/python-app.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/python-app.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -168,7 +167,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1724515858256</updated>
-      <workItem from="1724515862025" duration="15475000" />
+      <workItem from="1724515862025" duration="15543000" />
     </task>
     <servers />
   </component>
