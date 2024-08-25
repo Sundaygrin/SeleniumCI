@@ -22,8 +22,8 @@ jobs:
     - name: Upgrade pip
       run: python -m pip install --upgrade pip
 
-    - name: Install dependencies
-      run: pip install -r Selenium/requirements.txt
+#    - name: Install dependencies
+#      run: pip install -r Selenium/requirements.txt
 
     - name: Run tests
       run: |
