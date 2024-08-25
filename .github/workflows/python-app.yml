@@ -29,6 +29,6 @@ jobs:
 
     - name: Run tests
       run:
+        pip install pytest
 
-        pytest test_Login.py
 
