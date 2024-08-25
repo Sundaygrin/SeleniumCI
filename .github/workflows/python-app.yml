@@ -27,6 +27,5 @@ jobs:
 
     - name: Run tests
       run: |
-        python -m pip install --upgrade pip
-        test_Login.py
-        pip install pytest
+        pytest test_Login.py
+        
